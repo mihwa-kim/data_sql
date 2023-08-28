@@ -1,6 +1,14 @@
 # From crawl the web to complete the query required by boss
 
-## work flow
+> Description of Tasks:
+JD Hub is a national retail company specialising in selling electronics products. The CEO of JD Hub
+wants to increase their sales on Boxing Day. This year (2023), he plans to give more discounts to the
+electronics products that were the most sold on Boxing Days in recent years. He would like to try
+NSW shops as a trial for this year, before rolling out to all states in future.
+>>The CEO asks you to find out the top 9 electronics products that are the best sold in quantity on
+Boxing Days over the past five years in NSW.
+
+## workflow
 1. Create a schema in the MySQL.
 2. Crawl the web
 3. Save the web data in the DB
